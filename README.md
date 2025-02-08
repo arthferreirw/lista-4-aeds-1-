@@ -3,10 +3,7 @@ Este repositório contém a resolução de exercícios propostos pelo professor 
 
 ## Conteúdo  
 Os exercícios abordam:  
-- Definição e manipulação de **structs**  
-- Criação de estruturas personalizadas em **C++**  
-- Acesso e modificação de atributos de structs  
-- Resolução de problemas com organização de dados
+- Definição e manipulação de **vetores** e **ponteiros** 
 
 ## Como Executar  
 1. Clone o repositório:  
