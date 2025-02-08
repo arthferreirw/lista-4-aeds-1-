@@ -3,7 +3,7 @@ Este repositório contém a resolução de exercícios propostos pelo professor 
 
 ## Conteúdo  
 Os exercícios abordam:  
-- Definição e manipulação de **vetores** e **ponteiros** 
+- Definição e manipulação de **vetores**, **ponteiros** , **matrizes** 
 
 ## Como Executar  
 1. Clone o repositório:  
